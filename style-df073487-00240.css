@@ -1,0 +1,338 @@
+﻿body
+{
+	background: #fff;
+	color: #586372;
+	font-size: 14px;
+	margin: 0px;
+	padding: 0px;
+	
+	
+}
+a:link, body_alink
+{
+	color: #444;
+}
+a:visited, body_avisited
+{
+	color: #444;
+}
+a:hover, a:active, body_ahover
+{
+	color: #777;
+}
+td, th, p, li
+{
+	font: 13px newsans,'Droid Arabic Kufi's,tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.tborder
+{
+	background: #9C9C9C;
+	color: #586372;
+	border: 0px solid #fff;
+}
+.tcat
+{
+	background: #6a2d52;
+	color: #fff;
+	font: bold 15px newsans,'Droid Arabic Kufi',tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.tcat a:link, .tcat_alink
+{
+	color: #fff;
+	text-decoration: none;
+}
+.tcat a:visited, .tcat_avisited
+{
+	color: #fff;
+	text-decoration: none;
+}
+.tcat a:hover, .tcat a:active, .tcat_ahover
+{
+	color: #d3d3d3;
+	text-decoration: none;
+}
+.thead
+{
+	background: #87426c;
+	color: #fff;
+	font: normal 13px newsans,'Droid Arabic Kufi',tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	line-height:16px
+	
+	
+	
+}
+.thead a:link, .thead_alink
+{
+	color: #fff;
+}
+.thead a:visited, .thead_avisited
+{
+	color: #fff;
+}
+.thead a:hover, .thead a:active, .thead_ahover
+{
+	color: #efefef;
+}
+.tfoot
+{
+	background: #ddd;
+	color: #333;
+}
+.tfoot a:link, .tfoot_alink
+{
+	color: #333;
+}
+.tfoot a:visited, .tfoot_avisited
+{
+	color: #333;
+}
+.tfoot a:hover, .tfoot a:active, .tfoot_ahover
+{
+	color: #999;
+}
+.alt1, .alt1Active
+{
+	background: #FEFEFE;
+	color: #393939;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #fff #e0e0e0 #e0e0e0 #fff;
+	
+}
+.alt2, .alt2Active
+{
+	background: #F8F8F8;
+	color: #393939;
+	border:solid 1px #fff;
+		border-style: solid;
+		border-width: 1px;
+		border-color: #fff #e0e0e0 #e0e0e0 #fff;
+	
+}
+.inlinemod
+{
+	background: #FFFFCC;
+	color: #000000;
+}
+.wysiwyg
+{
+	background: #FEFEFE;
+	color: #393939;
+	font: 13px newsans,'Droid Arabic Kufi',tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	margin: 5px 10px 10px 10px;
+	padding: 0px;
+}
+.wysiwyg a:link, .wysiwyg_alink
+{
+	color: #393939;
+}
+.wysiwyg a:visited, .wysiwyg_avisited
+{
+	color: #393939;
+}
+.wysiwyg a:hover, .wysiwyg a:active, .wysiwyg_ahover
+{
+	color: #393939;
+}
+textarea, .bginput
+{
+	background: #FEFEFE;
+	color: #393939;
+	font: 13px newsans,'Droid Arabic Kufi',tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+		border : 1px #c4c4c4 solid;
+		padding :2px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	cursor: pointer;
+	
+	
+}
+.bginput option, .bginput optgroup
+{
+	font-size: 13px;
+	font-family: newsans,'Droid Arabic Kufi',tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.button
+{
+	background: #333333;
+	color: #fff;
+	font: 14px newsans,'Droid Arabic Kufi',tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	border:0px;text-shadow:0px 1px 0px #000;
+	cursor: pointer;
+	
+}
+select
+{
+	background: #ebebeb;
+	color: #333;
+	font: 13px newsans,'Droid Arabic Kufi',tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	border : 0px;
+	text-shadow: 0 1px 0 #f4f4f4;
+	padding :4px;
+	border-radius: 4px;
+	
+}
+option, optgroup
+{
+	font-size: 13px;
+	font-family: newsans,'Droid Arabic Kufi',tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.smallfont
+{
+	color: #616161;
+	font: 13px newsans,'Droid Arabic Kufi',tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.time
+{
+	color: #999;
+}
+.navbar
+{
+	color: #444;
+	font: bold 13px newsans,'Droid Arabic Kufi',tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.navbar a:link, .navbar_alink
+{
+	color: #444;
+}
+.navbar a:visited, .navbar_avisited
+{
+	color: #444;
+}
+.navbar a:hover, .navbar a:active, .navbar_ahover
+{
+	color: #c23863;
+}
+.highlight
+{
+	color: #FF0000;
+	font-weight: bold;
+}
+.fjsel
+{
+	background: #F6F6F6;
+	color: #444;
+}
+.fjdpth0
+{
+	background: #F1F1F1;
+	color: #777;
+}
+.panel
+{
+	background: #F9F9F9;
+	color: #767272;
+	padding: 10px;
+	border: solid 1px #C8C8C8;
+}
+.panelsurround
+{
+	background: #FDFDFD;
+	color: #767272;
+}
+legend
+{
+	color: #444;
+	font: 9pt newsans,'Droid Arabic Kufi',tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.vbmenu_control
+{
+	background: #343434;
+	color: #fff;
+	font: 12px newsans,'Droid Arabic Kufi',tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	padding: 3px 6px 3px 6px;
+	white-space: nowrap;
+	
+}
+.vbmenu_control a:link, .vbmenu_control_alink
+{
+	color: #fff;
+	text-decoration: none;
+}
+.vbmenu_control a:visited, .vbmenu_control_avisited
+{
+	color: #fff;
+	text-decoration: none;
+}
+.vbmenu_control a:hover, .vbmenu_control a:active, .vbmenu_control_ahover
+{
+	color: #d3d3d;
+	text-decoration: none;
+}
+.vbmenu_popup
+{
+	background: #FFFFFF;
+	color: #c23863;
+	border: 1px solid #666;
+}
+.vbmenu_option
+{
+	background: #F6F6F6;
+	color: #5D6062;
+	font: 13px newsans,'Droid Arabic Kufi',tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	white-space: nowrap;
+	cursor: pointer;
+}
+.vbmenu_option a:link, .vbmenu_option_alink
+{
+	color: #5D6062;
+	text-decoration: none;
+}
+.vbmenu_option a:visited, .vbmenu_option_avisited
+{
+	color: #5D6062;
+	text-decoration: none;
+}
+.vbmenu_option a:hover, .vbmenu_option a:active, .vbmenu_option_ahover
+{
+	color: #9EA5A9;
+	text-decoration: none;
+}
+.vbmenu_hilite
+{
+	background: #fff;
+	color: #c23863;
+	font: 13px newsans,'Droid Arabic Kufi',tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	white-space: nowrap;
+	cursor: pointer;
+}
+.vbmenu_hilite a:link, .vbmenu_hilite_alink
+{
+	color: #c23863;
+	text-decoration: none;
+}
+.vbmenu_hilite a:visited, .vbmenu_hilite_avisited
+{
+	color: #c23863;
+	text-decoration: none;
+}
+.vbmenu_hilite a:hover, .vbmenu_hilite a:active, .vbmenu_hilite_ahover
+{
+	color: #c23863;
+	text-decoration: none;
+}
+/* ***** styling for 'big' usernames on postbit etc. ***** */
+.bigusername { font-size: 14pt; }
+
+/* ***** small padding on 'thead' elements ***** */
+td.thead, th.thead, div.thead { padding: 4px; }
+
+/* ***** basic styles for multi-page nav elements */
+.pagenav a { text-decoration: none; }
+.pagenav td { padding: 2px 4px 2px 4px; }
+
+/* ***** de-emphasized text */
+.shade, a.shade:link, a.shade:visited { color: #777777; text-decoration: none; }
+a.shade:active, a.shade:hover { color: #FF4400; text-decoration: underline; }
+.tcat .shade, .thead .shade, .tfoot .shade { color: #DDDDDD; }
+
+/* ***** define margin and font-size for elements inside panels ***** */
+.fieldset { margin-bottom: 6px; }
+.fieldset, .fieldset td, .fieldset p, .fieldset li { font-size: 11px; }
+@font-face {
+    font-family: "newsans";
+    font-style: normal;
+    font-weight: normal;
+    src: url("https://ahmedto.github.io/hams-a7la/NeoSansPro-Regular.ttf") format("truetype");
+}

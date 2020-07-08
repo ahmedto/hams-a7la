@@ -1,0 +1,39 @@
+﻿div.cntr {
+    margin: 0px 0px;
+    width: auto
+}
+
+#hdr_ .cntr {
+    padding: 24px 14px;
+}
+
+#foot_ .cntr,
+#footbar .cntr {
+    margin: 0px 14px;
+}
+
+body .color-chng li:last-child a {
+    opacity: 0.7;
+    cursor: pointer
+}
+
+body .color-chng li:first-child a {
+    opacity: 0.3;
+    cursor: text;
+}
+
+.p-cntr {
+    background-image: none
+}
+
+.login__box .cntr {
+    padding: 0 14px;
+}
+
+.wd_ {
+    margin: 0 14px !important;
+}
+
+#srch-box {
+    left: 90px
+}
