@@ -1262,7 +1262,7 @@ body .show-srch {
 
 .last10- a{
      margin: 0;
-display:block;
+display:table-cell;
     line-height: 30px;
     -moz-transition: all 0.5s ease-in-out;
     -webkit-transition: all 0.5s ease-in-out;
@@ -1280,7 +1280,7 @@ display:block;
 }
 
 .last10- a:before {
-    display: block;
+    display: table-cell;
     float: right;
     margin: 12px 0 0 8px;
     content: '';
