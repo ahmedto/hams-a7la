@@ -1261,7 +1261,8 @@ body .show-srch {
 }
 
 .last10- a{
-    margin: 0;
+     margin: 0;
+display:block;
     line-height: 30px;
     -moz-transition: all 0.5s ease-in-out;
     -webkit-transition: all 0.5s ease-in-out;
@@ -1270,6 +1271,7 @@ body .show-srch {
     transition: all 0.5s ease-in-out;
     -webkit-animation: bounceOutLeft 1s both;
     animation: bounceOutLeft 1s both;
+
 }
 
 .last10- .active-slide a {
