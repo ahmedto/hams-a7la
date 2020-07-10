@@ -5,9 +5,125 @@
 	font-size: 14px;
 	margin: 0px;
 	padding: 0px;
-	
-	
 }
+
+span.a7la7ekaya-title .gensmall {
+	font-size: 0px;
+}
+span.a7la7ekaya-title .gensmall a {
+	font-size: 14px;
+}
+span.a7la7ekaya-title .gensmall strong {
+	font-size: 0px;
+}
+span.a7la7ekaya-title .gensmall img {
+	display: none;
+}
+
+.a7la7ekaya-name span.aname {
+    font-size: 0px;
+}
+.a7la7ekaya-name span.aname img {
+    display: none;
+}
+
+.a7la7ekaya-time a, .a7la7ekaya-time steong a span steong{
+    font-size: 0px;
+}
+.a7la7ekaya-time steong steong{
+    font-size: 0px;
+}
+
+.a7la7ekaya-time img {
+    display: none;
+}
+div.a7la7ekaya-time .gensmall strong {
+	font-size: 0px;
+}
+.a7la7ekaya-name br {
+    display: none;
+}
+.sub-list-{
+    font-size: 0px;
+}
+.sub-list- a{
+    font-size: 14px;
+}  
+.st-box-_ ul li.st-01 div {
+    font-size: 0px;
+}
+.st-box-_ ul li.st-02 div {
+    font-size: 0px;
+}
+.st-box-_ ul li.st-03 div {
+    font-size: 0px;
+}
+.st-box-_ ul li.st-04 div {
+    font-size: 0px;
+}
+.st-box-_ ul li.st-05 div {
+    font-size: 0px;
+}
+
+
+.st-box-_ li.st-01 div div:before {
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    content: '';
+    display: block;
+    width: 86px;
+    height: 86px;
+    margin-left: -43px;
+    background: transparent url(https://i.servimg.com/u/f21/17/65/52/08/user_012.png) no-repeat left top;
+}
+.st-box-_ li.st-02 div div:before {
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    content: '';
+    display: block;
+    width: 86px;
+    height: 86px;
+    margin-left: -43px;
+    background: transparent url(https://i.servimg.com/u/f21/17/65/52/08/user_013.png) no-repeat left top;
+}
+.st-box-_ li.st-03 div div:before {
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    content: '';
+    display: block;
+    width: 86px;
+    height: 86px;
+    margin-left: -43px;
+    background: transparent url(https://i.servimg.com/u/f21/17/65/52/08/user_014.png) no-repeat left top;
+}
+.st-box-_ li.st-04 div div:before {
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    content: '';
+    display: block;
+    width: 86px;
+    height: 86px;
+    margin-left: -43px;
+    background: transparent url(https://i.servimg.com/u/f21/17/65/52/08/210_0211.png) no-repeat left top;
+}
+.st-box-_ li.st-05 div div:before {
+    position: absolute;
+    top: -50px;
+    left: 50%;
+    content: '';
+    display: block;
+    width: 86px;
+    height: 86px;
+    margin-left: -43px;
+    background: transparent url(https://i.servimg.com/u/f21/17/65/52/08/user_015.png) no-repeat left top;
+}
+
+
+
 a:link, body_alink
 {
 	color: #444;
