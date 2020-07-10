@@ -1,5 +1,47 @@
 ﻿@charset "utf-8";
 
+span.a7la7ekaya-title .gensmall {
+	font-size: 0px;
+}
+span.a7la7ekaya-title .gensmall a {
+	font-size: 14px;
+}
+span.a7la7ekaya-title .gensmall strong {
+	font-size: 0px;
+}
+span.a7la7ekaya-title .gensmall img {
+	display: none;
+}
+
+.a7la7ekaya-name span.aname {
+    font-size: 0px;
+}
+.a7la7ekaya-name span.aname img {
+    display: none;
+}
+
+.a7la7ekaya-time a, .a7la7ekaya-time steong a span steong{
+    font-size: 0px;
+}
+.a7la7ekaya-time steong steong{
+    font-size: 0px;
+}
+
+.a7la7ekaya-time img {
+    display: none;
+}
+div.a7la7ekaya-time .gensmall strong {
+	font-size: 0px;
+}
+.a7la7ekaya-name br {
+    display: none;
+}
+.sub-list-{
+    font-size: 0px;
+}
+.sub-list- a{
+    font-size: 14px;
+}  
 .st-box-_ ul li.st-01 div {
     font-size: 0px;
 }
