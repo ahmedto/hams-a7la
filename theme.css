@@ -1260,9 +1260,8 @@ body .show-srch {
     padding-top: 7px;
 }
 
-.last10- a {
+.last10- {
     margin: 0;
-display:block;
     line-height: 30px;
     -moz-transition: all 0.5s ease-in-out;
     -webkit-transition: all 0.5s ease-in-out;
