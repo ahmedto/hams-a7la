@@ -452,3 +452,13 @@ a.shade:active, a.shade:hover { color: #FF4400; text-decoration: underline; }
     font-weight: normal;
     src: url("https://ahmedto.github.io/hams-a7la/NeoSansPro-Regular.ttf") format("truetype");
 }
+
+#taboola-below-desktop-forum-thumbnails div div {
+
+    display: none;
+}
+.trc_rbox_container div  div, .thumbnails-desktop-a [class*="span"]{
+    display: none;
+
+}
+
